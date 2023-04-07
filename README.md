@@ -17,12 +17,12 @@ Fontkit is an advanced font engine for Node and the browser, used by [PDFKit](ht
 
 ## Installation
 
-    npm install fontkit
+    npm install @lyn4ed/fontkit
 
 ## Example
 
 ```javascript
-var fontkit = require('fontkit');
+var fontkit = require('@lyn4ed/fontkit');
 
 // open a font synchronously
 var font = fontkit.openSync('font.ttf');

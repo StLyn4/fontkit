@@ -1,5 +1,5 @@
 import assert from 'assert';
-import * as fontkit from 'fontkit';
+import * as fontkit from '@lyn4ed/fontkit';
 
 describe('i18n', function () {
   describe('fontkit.setDefaultLanguage', function () {

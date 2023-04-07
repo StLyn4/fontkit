@@ -1,4 +1,4 @@
-import * as fontkit from 'fontkit';
+import * as fontkit from '@lyn4ed/fontkit';
 import assert from 'assert';
 import concat from 'concat-stream';
 import * as r from 'restructure';
